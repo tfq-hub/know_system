@@ -4,7 +4,8 @@
 
 ```shell
 sudo mysql 
-sudo mysql -A  // 添加 -A 参数，不预读表结构
+sudo mysql -A  # 添加 -A 参数，不预读表结构
+sudo mysql -u 用户名  # 指定登录用户 
 ```
 
 ### 新建数据库
