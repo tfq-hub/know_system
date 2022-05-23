@@ -20,6 +20,8 @@ go学习路径：https://github.com/jaronnie/gopher-road
 
 实践：
 
+0、开始两个github项目（前端和后端）
+
 1、搭建 gin 开发框架+Vue框架
 
 2、运行gin开发框架和Vue框架结合
